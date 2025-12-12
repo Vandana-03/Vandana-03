@@ -22,16 +22,6 @@
 - 💬 Ask me about: **💡 Functional testing, API testing, Automation Testing, Jmeter, CI/CD, AI**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=Vandana-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vandana-03&theme=dark&hide_border=false)
 
  **<h3 align="left">Skills</h3>**
 
